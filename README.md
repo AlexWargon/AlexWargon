@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlexWargon
-- 👀 I’m interested in Unity,C#,ECS
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Unity, C#, ECS
 
 <!---
 AlexWargon/AlexWargon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
